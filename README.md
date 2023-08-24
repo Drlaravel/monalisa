@@ -7,7 +7,7 @@ Live Preview
 Monalisais a creative personal & portfolio template based on Bootstrap. You can use it for your personal resume, CV or your portfolio.
 Monalisais written in valid and clean HTML & CSS3 code. It’s easy to customize and also well documented so it’ll suit your needs.
 
-##Features
+## Features
 Responsive Layout
 10 Color Skins
 Bootstrap 4 Framework
