@@ -9,28 +9,30 @@ Monalisais written in valid and clean HTML & CSS3 code. It’s easy to customize
 
 ## Features
 
-Responsive Layout
-10 Color Skins
-Bootstrap 4 Framework
-Light/Dark
-Smoooth transitions
-Live Style Switcher
-Clean Code
-W3C Validated
-HTML5 & CSS3
-Cross Browser Compatible
-100% Customizable
-Creative Preloader
-Creative Portfolio
-Project Image Format
-Project Slider Format
-Project Youtube Format
-Project Local Video Format
-Font Awesome Icons
-Well-commented code
-Google Fonts
-Working Ajax Contact Form
-Blog Pages
+<ul>
+<li>Responsive Layout</li>
+<li>10 Color Skins</li>
+<li>Bootstrap 4 Framework</li>
+<li>Light/Dark</li>
+<li>Smoooth transitions</li>
+<li>Live Style Switcher</li>
+<li>Clean Code</li>
+<li>W3C Validated</li>
+<li>HTML5 &amp; CSS3</li>
+<li>Cross Browser Compatible</li>
+<li>100% Customizable</li>
+<li>Creative Preloader</li>
+<li>Creative Portfolio</li>
+<li>Project Image Format</li>
+<li>Project Slider Format</li>
+<li>Project Youtube Format</li>
+<li>Project Local Video Format</li>
+<li>Font Awesome Icons</li>
+<li>Well-commented code</li>
+<li>Google Fonts</li>
+<li>Working Ajax Contact Form</li>
+<li>Blog Pages</li>
+</ul>
 
 
 ## Project setup
