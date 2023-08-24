@@ -97,7 +97,7 @@ const Preview = () => {
         {/* End go_purchase */}
 
         <div className="text-center footer_copyright">
-          <h6>Tunis -قالب شخصی پرتفولیو React</h6>
+          <h6>Monalisa -قالب شخصی پرتفولیو React</h6>
           <h5>
             &copy; {new Date().getFullYear()} Designed with{" "}
             <span className="heart">&#10084;</span> by{" "}
